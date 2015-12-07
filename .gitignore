@@ -13,6 +13,6 @@ results
 
 website/npm-debug.log
 website/node_modules
-
+website/config/configApp.js
 website/config/database.js
 website/config/auth.js
